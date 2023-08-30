@@ -1,0 +1,12 @@
+name: app_sandra
+title: app_sandra
+username: hans-kevin-ttito-sanchez
+account: hans-kevin-ttito-sanchez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9715261
+bundleId: 7623680
+url: https://hans-kevin-ttito-sanchez.shinyapps.io/app_sandra/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
